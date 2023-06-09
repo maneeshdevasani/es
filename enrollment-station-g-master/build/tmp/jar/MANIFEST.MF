@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Main-Class: com.cdac.enrollmentstation.App
+Class-Path: /usr/share/enrollment/lib/opencv-3413.jar /usr/share/enrollm
+ ent/lib/jython-2.5.jar /usr/share/enrollment/lib/MantraUtility-1.0.jar 
+ /usr/share/enrollment/lib/sdk-commons-main-1.2.0.jar /usr/share/enrollm
+ ent/lib/asn1-converter-1.0.jar /usr/share/enrollment/lib/iengine-ansi-i
+ so-main-2.4.3.jar /usr/share/enrollment/lib/MIDIris_Enroll-1.0.jar /usr
+ /share/enrollment/lib/MIDFingerAuth-1.0.jar /usr/share/enrollment/lib/M
+ FS-1.0.jar /usr/share/enrollment/lib/jackson-databind-2.11.1.jar /usr/s
+ hare/enrollment/lib/jssc-2.8.0.jar /usr/share/enrollment/lib/commons-io
+ -2.8.0.jar /usr/share/enrollment/lib/jna-4.2.2.jar /usr/share/enrollmen
+ t/lib/json-io-4.12.0.jar /usr/share/enrollment/lib/bcprov-jdk15on-1.60.
+ jar /usr/share/enrollment/lib/jaxb-api-2.3.1.jar /usr/share/enrollment/
+ lib/json-20200518.jar /usr/share/enrollment/lib/javafx-fxml-11.0.2-linu
+ x.jar /usr/share/enrollment/lib/javafx-controls-11.0.2-linux.jar /usr/s
+ hare/enrollment/lib/javafx-controls-11.0.2.jar /usr/share/enrollment/li
+ b/javafx-graphics-11.0.2-linux.jar /usr/share/enrollment/lib/javafx-gra
+ phics-11.0.2.jar /usr/share/enrollment/lib/javafx-base-11.0.2-linux.jar
+  /usr/share/enrollment/lib/javafx-base-11.0.2.jar /usr/share/enrollment
+ /lib/jackson-annotations-2.11.1.jar /usr/share/enrollment/lib/jackson-c
+ ore-2.11.1.jar /usr/share/enrollment/lib/javax.activation-api-1.2.0.jar
+

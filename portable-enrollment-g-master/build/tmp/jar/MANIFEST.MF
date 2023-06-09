@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Main-Class: com.cdac.enrollmentstation.App
+Class-Path: /usr/share/enrollment/lib/opencv-3413.jar /usr/share/enrollm
+ ent/lib/jython-2.5.jar /usr/share/enrollment/lib/MantraUtility-1.0.jar 
+ /usr/share/enrollment/lib/sdk-commons-main-1.2.0.jar /usr/share/enrollm
+ ent/lib/iengine-ansi-iso-main-2.4.3.jar /usr/share/enrollment/lib/MIDIr
+ is_Enroll-1.0.jar /usr/share/enrollment/lib/MIDFingerAuth-1.0.jar /usr/
+ share/enrollment/lib/MFS-1.0.jar /usr/share/enrollment/lib/javafx-fxml-
+ 11.0.2-linux.jar /usr/share/enrollment/lib/javafx-controls-11.0.2-linux
+ .jar /usr/share/enrollment/lib/javafx-controls-11.0.2.jar /usr/share/en
+ rollment/lib/javafx-graphics-11.0.2-linux.jar /usr/share/enrollment/lib
+ /javafx-graphics-11.0.2.jar /usr/share/enrollment/lib/javafx-base-11.0.
+ 2-linux.jar /usr/share/enrollment/lib/javafx-base-11.0.2.jar /usr/share
+ /enrollment/lib/jackson-databind-2.11.1.jar /usr/share/enrollment/lib/j
+ na-4.2.2.jar /usr/share/enrollment/lib/bcprov-jdk15on-1.60.jar /usr/sha
+ re/enrollment/lib/jackson-annotations-2.11.1.jar /usr/share/enrollment/
+ lib/jackson-core-2.11.1.jar
+
